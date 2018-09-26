@@ -80,11 +80,11 @@ namespace Assignment1
             {
                 //A method to handle the death of this unit
             }
-            public virtual string ToString()
+           /* public override virtual string ToString()
             {
                 //Returns a string showing all the unit information
                 return null;
-            }
+            */
             public virtual void Save()
             {
                 //method used to save any units postion
